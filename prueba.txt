@@ -5,3 +5,5 @@ Esta es uno nueva Linea de comando.
 Agregamos un nueva linea de "comando".
 
 probamos git log.
+
+Agregamos un commit 1.0.
