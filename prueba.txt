@@ -7,3 +7,6 @@ Agregamos un nueva linea de "comando".
 probamos git log.
 
 Agregamos un commit 1.0.
+
+aqui creamos nuestra primera rama 
+esta rama se llama primerarama 
